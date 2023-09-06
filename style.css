@@ -1,0 +1,62 @@
+
+body {
+    background-color:#ffffff;
+
+}
+
+/*=====Global CSS Start=====*/
+h1 {
+    color: #068f2b;
+    text-align: center;
+    margin-top: -5px;
+    margin-bottom: -4px;
+}
+/*=====Global CSS End=====*/
+
+.container {
+    width:75%;
+    font-size: 17px;
+    font-weight: bold;
+    font-family:vardana;
+
+    
+}
+.header {
+    text-align: center;
+}
+.header h1 {
+    color: #068f2b;
+    display: inline-block;
+    margin-bottom: -4px;
+    
+}
+
+.header h3 {
+    color:#9b59b6;
+    display: inline-block;
+    margin-bottom: -4px;
+
+}
+
+.header h2 {
+    color:#3498db;
+    display: inline-block;
+    margin-bottom: -4px;
+}
+
+.sunday .table table  {
+    width:90%;
+    text-align: center;
+    margin-left: 65px;
+    
+}
+
+.sunday .table .first-tr  {
+    width:90%;
+    text-align: center;
+    margin-left: 65px;
+    color:#3498db
+}
+
+
+
